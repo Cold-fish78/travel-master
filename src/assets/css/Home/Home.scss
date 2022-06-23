@@ -1,0 +1,19 @@
+.bg-nature {
+	width: 100vw;
+	height: 100vh;
+	background: url('../../images/venice1.jpg') center ;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	object-fit: cover;
+	transition: ease-in-out;
+}
+// @media (max-width: 779px) {
+// 	.bg-nature {
+		
+// 	background: url('../../images/paris.jpg') center;
+// 	background-repeat: no-repeat;
+// 	background-size: cover;
+	
+// 	}
+// }
